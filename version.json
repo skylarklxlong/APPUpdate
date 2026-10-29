@@ -1,6 +1,6 @@
 {
   "version": "1.3.0",
   "url": "https://github.com/skylarklxlong/APPUpdate/releases/latest",
-  "mirror": "https://gh-proxy.com/https://github.com/skylarklxlong/APPUpdate/releases/download/v1.3.0/PDF小助手_1.3.0.exe",
-  "notes": "把这里的版本号改成新版本后上传，程序会在下次自动检查时看到。"
+  "mirror": "https://gh-proxy.com/https://github.com/skylarklxlong/APPUpdate/releases/download/v1.3.0/PDF_Assistant_1.3.0.exe",
+  "notes": "首次上传"
 }
