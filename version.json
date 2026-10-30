@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
+  "version": "1.5.0",
   "url": "https://github.com/skylarklxlong/APPUpdate/releases/latest",
-  "mirror": "https://gh-proxy.com/https://github.com/skylarklxlong/APPUpdate/releases/download/v1.3.0/PDF_Assistant_1.3.0.exe",
-  "notes": "首次上传"
+  "mirror": "https://gh-proxy.com/https://github.com/skylarklxlong/APPUpdate/releases/download/v1.5.0/PDF_Assistant_1.5.0.exe",
+  "notes": "新增发票报销：PDF/图片按公司模板批量生成 Word 粘贴单，支持批量打印和扫描图片旋转"
 }
