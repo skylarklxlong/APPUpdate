@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "url": "https://github.com/skylarklxlong/APPUpdate/releases/latest",
-  "mirror": "https://gh-proxy.com/https://github.com/skylarklxlong/APPUpdate/releases/download/v1.5.0/PDF_Assistant_1.5.0.exe",
-  "notes": "新增发票报销：PDF/图片按公司模板批量生成 Word 粘贴单，支持批量打印和扫描图片旋转"
+  "mirror": "https://gh-proxy.com/https://github.com/skylarklxlong/APPUpdate/releases/download/v1.5.1/PDF_Assistant_1.5.1.exe",
+  "notes": "修复：输出目录被杀软/受控文件夹拦截、或目录处于异常状态时，程序自动改用本机可写目录并重跑，不再让任务失败"
 }
